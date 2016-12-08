@@ -2,12 +2,12 @@
 def main():
     patroon = []
     while True:
-        i = input()
-        if i == "":
+        invoer = input()
+        if invoer == "":
             break
-        patroon.append(i)
+        patroon.append(invoer)
 
-    for s in patroon:
-        print("{}".format(s + s[::-1]))
+    for string in patroon:
+        print("{}".format(string + string[::-1]))
 
 main()
