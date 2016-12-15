@@ -11,7 +11,7 @@ def levensverwachting(geslacht, roker, sport, alcohol, fastfood):
     verwachting += 4 if geslacht is "vrouw" else 0
     verwachting += 5 if roker is False else -5
     verwachting += sport if sport > 0 else -3
-    verwachting += 2 if alcohol is 0 else -(alcohol - 7) / 2 if alcohol > 7 else +2
+    verwachting += 2 if alcohol is 0 else -(alcohol - 7) / 2 if alcohol > 7 else 0
     verwachting += 3 if fastfood is False else 0
 
     return verwachting
