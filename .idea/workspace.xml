@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97e130d3-ebc3-4984-8f8a-b17b9a2dafb8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 4/Opdracht20.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 4/Opdracht17.py" afterPath="$PROJECT_DIR$/Week 4/Opdracht17.py" />
     </list>
     <ignored path="ISCRIPT.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -22,19 +22,19 @@
     <SUITE FILE_PATH="coverage/ISCRIPT$Opdracht16.coverage" NAME="Opdracht16 Coverage Results" MODIFIED="1482326489953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4" />
     <SUITE FILE_PATH="coverage/ISCRIPT$Opdracht6.coverage" NAME="Opdracht6 Coverage Results" MODIFIED="1480436443660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 1" />
     <SUITE FILE_PATH="coverage/ISCRIPT$Opdracht14.coverage" NAME="Opdracht14 Coverage Results" MODIFIED="1481487389951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3" />
-    <SUITE FILE_PATH="coverage/ISCRIPT$Opdracht19.coverage" NAME="Opdracht19 Coverage Results" MODIFIED="1482328182604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4" />
+    <SUITE FILE_PATH="coverage/ISCRIPT$Opdracht19.coverage" NAME="Opdracht19 Coverage Results" MODIFIED="1482342315517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4" />
     <SUITE FILE_PATH="coverage/ISCRIPT$Opdracht7.coverage" NAME="Opdracht7 Coverage Results" MODIFIED="1480971091233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2" />
     <SUITE FILE_PATH="coverage/ISCRIPT$Opdracht3.coverage" NAME="Opdracht3 Coverage Results" MODIFIED="1479812267115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 1" />
     <SUITE FILE_PATH="coverage/ISCRIPT$Opdracht11.coverage" NAME="Opdracht11 Coverage Results" MODIFIED="1481134289166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2" />
     <SUITE FILE_PATH="coverage/ISCRIPT$Opdracht15.coverage" NAME="Opdracht15 Coverage Results" MODIFIED="1481797988939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3" />
-    <SUITE FILE_PATH="coverage/ISCRIPT$Opdracht18.coverage" NAME="Opdracht18 Coverage Results" MODIFIED="1482326530451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4" />
+    <SUITE FILE_PATH="coverage/ISCRIPT$Opdracht18.coverage" NAME="Opdracht18 Coverage Results" MODIFIED="1482342324205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4" />
     <SUITE FILE_PATH="coverage/ISCRIPT$Opdracht1.coverage" NAME="Opdracht1 Coverage Results" MODIFIED="1479741506620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 1" />
     <SUITE FILE_PATH="coverage/ISCRIPT$Opdracht4.coverage" NAME="Opdracht4 Coverage Results" MODIFIED="1480434141685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 1" />
     <SUITE FILE_PATH="coverage/ISCRIPT$Opdracht8.coverage" NAME="Opdracht8 Coverage Results" MODIFIED="1480974425657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2" />
     <SUITE FILE_PATH="coverage/ISCRIPT$Opdracht12.coverage" NAME="Opdracht12 Coverage Results" MODIFIED="1481467277254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2" />
     <SUITE FILE_PATH="coverage/ISCRIPT$Opdracht2.coverage" NAME="Opdracht2 Coverage Results" MODIFIED="1479811206696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 1" />
     <SUITE FILE_PATH="coverage/ISCRIPT$Opdracht5.coverage" NAME="Opdracht5 Coverage Results" MODIFIED="1480436409644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 1" />
-    <SUITE FILE_PATH="coverage/ISCRIPT$Opdracht17.coverage" NAME="Opdracht17 Coverage Results" MODIFIED="1482247927831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4" />
+    <SUITE FILE_PATH="coverage/ISCRIPT$Opdracht17.coverage" NAME="Opdracht17 Coverage Results" MODIFIED="1482342430694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 4" />
     <SUITE FILE_PATH="coverage/ISCRIPT$Opdracht9.coverage" NAME="Opdracht9 Coverage Results" MODIFIED="1481131765205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 2" />
     <SUITE FILE_PATH="coverage/ISCRIPT$Opdracht13.coverage" NAME="Opdracht13 Coverage Results" MODIFIED="1481790246876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week 3" />
   </component>
@@ -89,11 +89,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Opdracht17.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Opdracht17.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Week 4/Opdracht17.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            <state vertical-scroll-proportion="1.0614934">
+              <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -103,7 +103,7 @@
         <entry file="file://$PROJECT_DIR$/Week 4/Opdracht18.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -113,16 +113,16 @@
         <entry file="file://$PROJECT_DIR$/Week 4/Opdracht19.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Opdracht20.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Opdracht20.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week 4/Opdracht20.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5856515">
+            <state vertical-scroll-proportion="0.0">
               <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
               <folding />
             </state>
@@ -160,10 +160,10 @@
         <option value="$PROJECT_DIR$/Week 3/Opdracht14.py" />
         <option value="$PROJECT_DIR$/Week 3/Opdracht15.py" />
         <option value="$PROJECT_DIR$/Week 4/Opdracht16.py" />
-        <option value="$PROJECT_DIR$/Week 4/Opdracht17.py" />
         <option value="$PROJECT_DIR$/Week 4/Opdracht18.py" />
         <option value="$PROJECT_DIR$/Week 4/Opdracht19.py" />
         <option value="$PROJECT_DIR$/Week 4/Opdracht20.py" />
+        <option value="$PROJECT_DIR$/Week 4/Opdracht17.py" />
       </list>
     </option>
   </component>
@@ -275,7 +275,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Python.Opdracht20">
+  <component name="RunManager" selected="Python.Opdracht17">
     <configuration default="false" name="Opdracht16" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -568,11 +568,11 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Opdracht20" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Opdracht19" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Opdracht18" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Opdracht16" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Opdracht17" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Opdracht17" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Opdracht18" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Opdracht19" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Opdracht20" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Opdracht16" />
       </list>
     </recent_temporary>
   </component>
@@ -960,38 +960,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 4/Opdracht17.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 4/Opdracht16.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 4/Opdracht18.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 4/Opdracht19.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week 3/Opdracht13.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1020,8 +988,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week 4/Opdracht20.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5856515">
+        <state vertical-scroll-proportion="0.0">
           <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4/Opdracht19.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4/Opdracht18.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4/Opdracht16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 4/Opdracht17.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0614934">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
           <folding />
         </state>
       </provider>
