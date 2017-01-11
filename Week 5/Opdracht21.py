@@ -40,7 +40,6 @@ def grid2fen(rooster, sepatator="*"):
                 output += str(n) + letter if letter.isalpha() and n > 0 else letter if letter.isalpha() else ""
                 n = 0 if letter.isalpha() else n
             output += str(n) if n > 0 else ""
-            n = 0
 
         output += "/" if character is not rooster[len(rooster) - 1] else ""
 
